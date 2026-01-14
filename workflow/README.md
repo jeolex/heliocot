@@ -6,8 +6,9 @@ It is **intentionally excluded from GitHub** via `.gitignore` because it contain
 ## Where to get the data
 All required inputs (images, annotations/exports, metadata) and the produced outputs referenced in the manuscript are archived on Zenodo.
 
-- **Dataset DOI:** TBA  
-- **Workflow/code DOI (GitHub release archived on Zenodo):** TBA
+- **Dataset DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18243285.svg)](https://doi.org/10.5281/zenodo.18243285)  
+- **Workflow/code DOI (GitHub release archived on Zenodo):** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18241920.svg)](https://doi.org/10.5281/zenodo.18241920)
+
 
 After downloading the Zenodo dataset, place its contents into this `workflow/` folder following the structure below.
 
