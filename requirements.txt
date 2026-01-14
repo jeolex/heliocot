@@ -1,0 +1,22 @@
+# Core numerics / IO
+numpy
+pandas
+openpyxl
+
+# ML / stats
+scipy
+scikit-learn
+statsmodels
+patsy
+
+# CV / segmentation
+opencv-python
+ultralytics
+
+# PyTorch (needed by ultralytics)
+torch
+torchvision
+torchaudio
+
+# Optional (plots/debug)
+matplotlib

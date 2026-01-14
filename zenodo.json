@@ -1,0 +1,26 @@
+{
+  "title": "Heliocot: A segmentation-to-PLA workflow for diurnal cotton canopy orientation dynamics",
+  "upload_type": "software",
+  "description": "Heliocot is an open, reproducible segmentation-to-PLA workflow for top-down field RGB images of cotton. It converts instance segmentation masks into reference-area standardized projected leaf area (PLA) time series and supports quantifying diurnal canopy orientation dynamics.",
+  "creators": [
+    {
+      "name": "Çakaloğulları, Uğur",
+      "orcid": "0000-0003-4175-1815"
+    },
+    {
+      "name": "İştipliler, Deniz",
+      "orcid": "0000-0002-0887-1121"
+    }
+  ],
+  "keywords": [
+    "cotton",
+    "field phenotyping",
+    "instance segmentation",
+    "projected leaf area",
+    "diurnal dynamics",
+    "canopy orientation",
+    "RGB imaging",
+    "YOLO"
+  ],
+  "notes": "This repository hosts the workflow code and documentation. Large research assets (images/annotations/derived outputs) are archived separately on Zenodo (DOI: TBA)."
+}

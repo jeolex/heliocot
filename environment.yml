@@ -1,0 +1,21 @@
+name: helicot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - openpyxl
+  - scipy
+  - scikit-learn
+  - statsmodels
+  - patsy
+  - matplotlib
+  - pip:
+      - ultralytics>=8.0.0
+      - opencv-python>=4.7
+      - torch
+      - torchvision
+      - torchaudio
