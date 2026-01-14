@@ -1,25 +1,15 @@
-cff-version: 1.2.0
-message: >-
-  If you use this workflow in your research, please cite the Zenodo release (once available)
-  and the associated manuscript (once available).
-title: Heliocot: A segmentation-to-PLA workflow for diurnal cotton canopy orientation dynamics
+cff-version: "1.2.0"
+message: "If you use this workflow, please cite it as below."
+title: "Heliocot: an open, reproducible segmentation-to-PLA workflow for cotton canopy orientation dynamics"
 type: software
 authors:
-  - family-names: Çakaloğulları
-    given-names: Uğur
-    orcid: https://orcid.org/0000-0003-4175-1815
-  - family-names: İştipliler
-    given-names: Deniz
-    orcid: https://orcid.org/0000-0002-0887-1121
-abstract: >-
-  Heliocot is an open, reproducible segmentation-to-PLA workflow for top-down field RGB images of cotton.
-  It converts instance segmentation masks into reference-area standardized projected leaf area (PLA) time series
-  and supports quantifying diurnal canopy orientation dynamics.
-keywords:
-  - cotton
-  - field phenotyping
-  - instance segmentation
-  - projected leaf area
-  - diurnal dynamics
-  - canopy orientation
-license: MIT
+  - family-names: "Çakaloğulları"
+    given-names: "Uğur"
+    orcid: "https://orcid.org/0000-0003-4175-1815"
+  - family-names: "İştipliler"
+    given-names: "Deniz"
+    orcid: "https://orcid.org/0000-0002-0887-1121"
+repository-code: "https://github.com/jeolex/heliocot"
+license: "MIT"
+version: "v1.0.0"
+date-released: "2026-01-14"
