@@ -11,7 +11,8 @@ Heliocot is an open, reproducible segmentation-to-PLA workflow for top-down fiel
 Large research assets (images, annotations, and derived outputs) are shared via Zenodo, while this GitHub repository hosts the workflow code and documentation.
 
 - Zenodo (dataset archive: images/annotations/derived outputs) DOI: **TBA**
-- Zenodo (workflow release: versioned repository snapshot) DOI: **TBA**
+- Zenodo (workflow release: versioned repository snapshot) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18241921.svg)](https://doi.org/10.5281/zenodo.18241921) 
+
 
 ## Installation
 
